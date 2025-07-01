@@ -70,7 +70,7 @@ https://github.com/Anish-3-12/Banking-App.git
 
 ## 🧪 Running Tests
 
-```bash
+```
 ./mvnw test
 ```
 ---
@@ -78,3 +78,14 @@ https://github.com/Anish-3-12/Banking-App.git
 ## 👨‍💻 Author
 
 **Anish Sabale** – [@Anish-3-12](https://github.com/Anish-3-12)
+
+---
+---
+
+## 🙌 Final Note
+
+Thanks for checking out this project! I built this banking app as a learning exercise and to demonstrate how to structure a clean and modular Spring Boot application. I hope it helps others who are exploring Java backend development or looking for a starter template.
+
+Feel free to fork it, open issues, or contribute — every bit of feedback is appreciated!
+
+Happy coding! 💻✨
